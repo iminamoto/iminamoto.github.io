@@ -29,9 +29,16 @@ a {
 	color: #0bc;
 }
 
+
 #b {
 	color: #ff0096;
 }
+
+
+#x {
+	color: #ff0000;
+}
+
 
 #k {
     	animation: change 1s;
