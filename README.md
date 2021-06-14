@@ -1,2 +1,2 @@
-# CodeNerve.github.io
-Terminal based portfolio website for CodeNerve
+# iminamoto.github.io
+Terminal based portfolio website for Minamoto
