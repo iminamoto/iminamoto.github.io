@@ -1,6 +1,6 @@
 <span id="a">code@moto</span>:<span id="b">~</span><span id="c">$</span> cd minamoto/<!-- kjsdfhkjdhsfkjdshfkj -->about_me
 <span id="a">code@moto</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->minamoto.txt<br/><br/>
-"<span id="k">There is no sunrise so beautiful that it is worth waking me up to see it</span>". <!-- sjkfhskjf -->
+<span id="k">There is no sunrise so beautiful that it is worth waking me up to see it</span>. <!-- sjkfhskjf -->
 
 
 <p>Bye!!</p>
